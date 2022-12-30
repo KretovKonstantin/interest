@@ -1,0 +1,94 @@
+@media screen and (max-width: 770px) { 
+    .container { 
+        display: none; 
+    } 
+     
+} 
+@media screen and (max-width: 770px) { 
+ 
+     
+    .Logo { 
+        padding: 15px 0; 
+        display: flex; 
+    } 
+    .test { 
+        display: none; 
+         
+    } 
+ 
+     
+    .Fonchik { 
+        display: flex; 
+        flex-direction: column; 
+        max-width: 425px; 
+         
+        padding: 50px 0;  
+         
+         
+    } 
+    .test{ 
+        max-width: 100% 
+    } 
+     .textooo { 
+        width: 100%; 
+        max-width: 500px; 
+        font-size: 14px; 
+     } 
+      .text-season { 
+        font-size: 25px; 
+         
+      } 
+      .season-line { 
+        margin: 30px auto; 
+      } 
+      .clock-page { 
+        flex-wrap: wrap; 
+        gap: 30px; 
+      } 
+ 
+  
+     .section { 
+        display: flex; 
+        flex-direction: column; 
+        width: 390px; 
+        height: 844px; 
+         
+     }  
+     section-2{ 
+        flex-wrap: wrap; 
+    } 
+    .Opa-mujick { 
+        width: 100%; 
+        order: 2; 
+        height: 400px; 
+    } 
+    .Opa-text-season-3 { 
+       width: 100%; 
+} 
+  
+      
+      
+     .section-3{ 
+        display: flex; 
+        flex-direction: column; 
+        width: 390px; 
+        height: 844px;  
+     } 
+      
+} 
+ 
+@media screen and (max-width: 1500px) { 
+    .season { 
+        flex-wrap: wrap; 
+    } 
+    .content-season { 
+        width: 100%; 
+        padding: 100px 0; 
+    } 
+    .season-2 { 
+        width: 100%; 
+        padding: 100px 0; 
+    } 
+ 
+     
+}
